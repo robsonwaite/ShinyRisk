@@ -1,0 +1,21 @@
+
+# Link exemplo
+https://www.infomoney.com.br/cotacoes/petrobras-petr4/historico/#page20
+
+#Link Generico
+https://www.infomoney.com.br/cotacoes/X?-XXXXX/historico/#page20
+
+
+Chaves:
+ambev-abev3
+banco-do-brasil-bbas3
+copel-cple6
+engie-brasil-egie3
+jbs-jbss3
+marfrig-mrfg3
+pao-de-acucar-pcar3
+localiza-rent3
+suzano-papel-suzb3
+vale-vale3
+
+

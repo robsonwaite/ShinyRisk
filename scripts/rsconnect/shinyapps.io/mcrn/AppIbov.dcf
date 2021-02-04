@@ -1,0 +1,13 @@
+name: AppIbov
+title: AppIbov
+username:
+account: mcrn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3492593
+bundleId: 4118877
+url: https://mcrn.shinyapps.io/AppIbov/
+when: 1611093520.81583
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Banco_de_dados_Shiny_VaR.R|Banco_Yahoo_Shiny_Demo.R|Deploy.R|FEND_Shiny_Data_Views.R|FrontEndShiny.R
